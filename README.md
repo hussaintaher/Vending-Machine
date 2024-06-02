@@ -15,10 +15,10 @@
 
 <h3 align="left">Electronic Devices:</h3>
 <ul>
-  <li>Stepper motors (Nema 17)</li>
-  <li>Stepper Motor Drivers</li>
+  <li>Stepper motors (Nema 17 2.5A)</li>
+  <li>Stepper Motor Drivers 1.5A</li>
   <li>Arduino</li>
-  <li>Servo Motors</li>
+  <li>Servo Motors 360deg</li>
   <li>Push Buttons</li>
   <li>LCD Screen</li>
   <li>Electrical Wires and board</li>
