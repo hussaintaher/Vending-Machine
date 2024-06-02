@@ -12,7 +12,6 @@
 <img align="left" src="https://github.com/hussaintaher/Vending-Machine/assets/63205254/248778b2-424e-4ec6-a831-8d9f4dc3af79" alt="cplusplus" width="300" height="100%"/>
 <img src="https://github.com/hussaintaher/Vending-Machine/assets/63205254/ca85b995-869d-4947-adbf-626ec44e517b" alt="cplusplus" width="250" height="100%"/>
 <img src="https://github.com/hussaintaher/Vending-Machine/assets/63205254/f47b56bb-cc0a-48ae-ac41-bf8f8f9b883e" alt="cplusplus" width="250" height="100%"/>
-<video src="https://github.com/hussaintaher/Vending-Machine/assets/63205254/ae33c55c-61b9-4ad8-a23b-de6e6dcc7518" width="50%" height="100" controls></video>
 
 <h3 align="left">Electronic Devices:</h3>
 <ul>
